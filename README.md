@@ -1,26 +1,47 @@
-# 👋 Hola, soy Jesús  
+# 👋 Hola, soy Antonio Jesús Domínguez  
 
-### 💻 Desarrollador en constante aprendizaje  
+### 💻 Desarrollador de Aplicaciones Multiplataforma  
 
-Soy un apasionado de la programación y la tecnología, me gusta construir cosas útiles y aprender algo nuevo cada día. 🚀  
+Soy un joven con motivación por seguir creciendo profesionalmente, responsable, organizado y con facilidad de aprendizaje. 🚀  
 
 ---
 
 ## 🚀 Sobre mí
-- 🌱 Actualmente aprendiendo **nuevas tecnologías**  
-- 💡 Me encanta colaborar en proyectos open-source  
-- 🎯 Objetivo: crecer como **desarrollador full-stack**  
-- ⚡ Fun fact: el café y el código son mis superpoderes ☕💻  
+- 🎓 Estudiante de **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** en *Victoria Institute of Technology* (2025 - Actualidad)  
+- 🎓 Titulado en **Actividades Comerciales** (*FEC Virgen de Regla*, 2024)  
+- 🛠️ Experiencia práctica en proyectos académicos y personales de desarrollo de software  
+- 🌍 Movilidad geográfica, carnet B y A1, vehículo propio  
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 📂 Proyectos destacados
+
+### 🔹 Trimsy (2025 - en desarrollo)  
+Aplicación móvil de reservas para barberías ✂️💈  
+- Registro, inicio de sesión, reservas y reseñas.  
+- Integración con **Supabase** para autenticación y gestión de datos en la nube.  
+- Gestión de usuarios, citas y disponibilidad de barberos.  
+- Desarrollado en **Dart**, con control de versiones en GitHub.  
+
+### 🔹 Aplicación web de gestión de tickets (2024)  
+Proyecto académico en equipo.  
+- Desarrollo completo: diseño, implementación y despliegue.  
+- Tecnologías: **HTML, CSS, JavaScript, PHP, MySQL**.  
+- Aprendizaje en trabajo colaborativo, resolución de problemas y gestión de proyectos.  
 
 ---
 
@@ -31,9 +52,10 @@ Soy un apasionado de la programación y la tecnología, me gusta construir cosas
 ---
 
 ## 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tusitio.com)
+📧 **Email:** [ajesusdl27@gmail.com](mailto:ajesusdl27@gmail.com)  
+📍 Sanlúcar de Barrameda (Cádiz)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajesusdl27)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
 
 ---
 
