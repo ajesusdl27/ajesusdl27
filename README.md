@@ -46,7 +46,7 @@ Proyecto académico en equipo.
 📧 **Email:** [ajesusdl27@gmail.com](mailto:ajesusdl27@gmail.com)  
 📍 Sanlúcar de Barrameda (Cádiz)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajesusdl27)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-jes%C3%BAs-dom%C3%ADnguez-l%C3%B3pez-3882b5385/)  
 
 ---
 
