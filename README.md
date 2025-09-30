@@ -8,15 +8,12 @@ Soy un joven con motivación por seguir creciendo profesionalmente, responsable,
 
 ## 🚀 Sobre mí
 - 🎓 Estudiante de **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** en *Victoria Institute of Technology* (2025 - Actualidad)  
-- 🎓 Titulado en **Actividades Comerciales** (*FEC Virgen de Regla*, 2024)  
 - 🛠️ Experiencia práctica en proyectos académicos y personales de desarrollo de software  
-- 🌍 Movilidad geográfica, carnet B y A1, vehículo propio  
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
@@ -30,11 +27,11 @@ Soy un joven con motivación por seguir creciendo profesionalmente, responsable,
 
 ## 📂 Proyectos destacados
 
-### 🔹 Trimsy (2025 - en desarrollo)  
-Aplicación móvil de reservas para barberías ✂️💈  
+### 🔹 BooKoro (2025 - en desarrollo)  
+Aplicación móvil de reservas para servicios ✂️💈  
 - Registro, inicio de sesión, reservas y reseñas.  
 - Integración con **Supabase** para autenticación y gestión de datos en la nube.  
-- Gestión de usuarios, citas y disponibilidad de barberos.  
+- Gestión de usuarios, citas y disponibilidad de servicios.  
 - Desarrollado en **Dart**, con control de versiones en GitHub.  
 
 ### 🔹 Aplicación web de gestión de tickets (2024)  
