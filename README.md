@@ -1,18 +1,18 @@
-# 👋 Hola, soy Antonio Jesús Domínguez  
+#  Hola, soy Antonio Jesús Domínguez  
 
-### 💻 Desarrollador de Aplicaciones Multiplataforma  
+###  Desarrollador de Aplicaciones Multiplataforma  
 
 Soy un joven con motivación por seguir creciendo profesionalmente, responsable, organizado y con facilidad de aprendizaje. 🚀  
 
 ---
 
-## 🚀 Sobre mí
-- 🎓 Estudiante de **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** en *Victoria Institute of Technology* (2025 - Actualidad)  
-- 🛠️ Experiencia práctica en proyectos académicos y personales de desarrollo de software  
+##  Sobre mí
+-  Estudiante de **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** en *Victoria Institute of Technology* (2025 - Actualidad)  
+-  Experiencia práctica en proyectos académicos y personales de desarrollo de software  
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -25,10 +25,10 @@ Soy un joven con motivación por seguir creciendo profesionalmente, responsable,
 
 ---
 
-## 📂 Proyectos destacados
+##  Proyectos destacados
 
 ### 🔹 BooKoro (2025 - en desarrollo)  
-Aplicación móvil de reservas para servicios ✂️💈  
+Aplicación móvil de reservas para servicios ✂️  
 - Registro, inicio de sesión, reservas y reseñas.  
 - Integración con **Supabase** para autenticación y gestión de datos en la nube.  
 - Gestión de usuarios, citas y disponibilidad de servicios.  
@@ -50,4 +50,4 @@ Proyecto académico en equipo.
 
 ---
 
-✨ _Gracias por visitar mi perfil. ¡Explora mis proyectos y colaboremos juntos!_ ✨
+ _Gracias por visitar mi perfil. ¡Explora mis proyectos y colaboremos juntos!_ 
